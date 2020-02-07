@@ -1,7 +1,7 @@
 # CalcIPJava
 Calculadora de Endereços IP em Java (Projeto de Faculdade) 
 
-## O PROGRAMA AINDA ESTÁ EM DESENVOLVIMENTO ##
+## O SOFTWARE AINDA ESTÁ EM DESENVOLVIMENTO ##
 
 A calculadora consiste de 3 funções relacionadas a endereços IP:
   1) Comparar 2 IPs para descobrir se estão na mesma rede.
